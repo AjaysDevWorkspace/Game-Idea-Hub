@@ -1,0 +1,15 @@
+GAME NAME : Ashen Veil
+
+CONCEPT : Ashen Veil is a short-form 2D action game inspired by Blasphemous and Hollow Knight,
+          it focuses on tight action and symbolic lore.Gameplay is around of 4 to 5 hours.
+
+GAMEPLAY : So you first wake up in a sanctuary called Chapel of Ashes and a veil of ash has fallen across the city, suffocating its people in endless rituals of suffering.
+Your objective is to traverse the three corrupted holy sites (Catacombs, Spire, Garden), slay the guardians within, and reach the Throne of Silence to confront the fate of the absent god.
+
+UNIQUE FEATURE : You get your main weapon (Ashblade) further in story and the story has epic lore.
+
+TARGET AUDIENCE : age group of 16+
+
+STYLE OR THEME : theme like good vs evil, a little dark style 
+
+INSPIRED FROM : Blasphemous and Hollow knight
