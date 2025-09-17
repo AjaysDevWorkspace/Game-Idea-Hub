@@ -1,0 +1,1 @@
+A MMORPG which gives a interactive interferance. can be playable by any person and any age. A medival aged game with 2D visuals where we upgrade our character and with other players we compete on global lvl and have to earn a livelihood by doing daily tasks.
