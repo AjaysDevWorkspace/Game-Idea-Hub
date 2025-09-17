@@ -1,23 +1,23 @@
 # Game Title
-(What’s your game called?)
+Urban Surfer India
 
 ## Concept
-(A short summary of your game idea in 2–3 sentences.)
+Indian Version of Subway Surfer
 
 ## Gameplay
-(How does the game work? What’s the player’s objective?)
+Cab be played both online and offline. Multiplayer also available. Theme based on india. 
 
 ## Unique Features
-(What makes your game different or exciting?)
+Immersive location experience. Features based on indian context.
 
 ## Target Audience
-(Who is this game for? Age group, interests, etc.)
+Any age
 
 ## Art Style & Theme
-(Optional – describe the visual style, tone, or theme.)
+Popular indian Location (Delhi, Mumbai, Kolkata, Chennai, Kashmir, Goa, Northeast). Theme - Cartoonised
 
 ## Inspiration
-(What inspired you? Any similar games or concepts?)
+Lack of game with indian context.
 
 ## Tools or Platforms (Optional)
-(Do you imagine this being built in Unity, Unreal, web, mobile, etc.?)
+UnreaL Engine. Apk version. Web not necessery. 
