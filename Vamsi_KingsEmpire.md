@@ -33,16 +33,14 @@ Designed for 18+ players who crave deep strategy, epic battles, and realistic op
 
 
 
-#Art Style & Theme
+#Art Style & Theme.
 
 A dark, mythic, and cinematic aesthetic inspired by Black Myth: Wukong—blending realism with fantasy.
-
 
 
 #Inspiration
 
 Inspired by Clash of Clans, but reimagined into a larger, more complex, and infinitely cooler world.
-
 
 
 #Tools & Platforms (Optional)
