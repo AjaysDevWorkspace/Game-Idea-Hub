@@ -1,0 +1,43 @@
+Game Title
+
+Snake & Ladder: Checkpoint Quest
+
+Concept
+
+A modern twist on the classic Snake & Ladder where players can save their progress by reaching special checkpoint tiles. Instead of always falling back to the bottom after landing on a snake, players restart from their latest checkpoint, making the game more strategic and less luck-driven.
+
+Gameplay
+
+Players roll the dice to move across the board, aiming to reach the final tile first. Ladders still help players climb up and snakes still bring them down—but checkpoints scattered across the board act as safe zones. Once a player reaches a checkpoint, any future snake bite will only send them back to that checkpoint instead of all the way down.
+
+Unique Features
+
+Checkpoint Mechanic: Adds strategy and reduces frustration from constant setbacks.
+
+Variable Checkpoints: Some checkpoints may be easy to reach, while others are riskier but more rewarding.
+
+Optional “Checkpoint Races”: Players can race to unlock limited checkpoints before others.
+
+Target Audience
+
+Age group: 8+
+
+Casual board game lovers, families, and friends who enjoy quick yet engaging games.
+
+People who like classic games but want a more balanced and less luck-heavy experience.
+
+Art Style & Theme
+
+Bright, colorful board with glowing checkpoint tiles (like safe zones). Theme can be flexible—classic jungle, space adventure, or fantasy realms—each giving checkpoints a unique design (e.g., campfires, portals, or shrines).
+
+Inspiration
+
+Inspired by the frustration players feel in traditional Snake & Ladder when constantly falling back down. The idea borrows from video game checkpoint systems in platformers and racing games, applied to a board game format.
+
+Tools or Platforms (Optional)
+
+Physical board game with custom-designed tiles.
+
+Digital version on mobile/web for quick multiplayer matches.
+
+Can be prototyped in Unity or Tabletop Simulator for testing.
