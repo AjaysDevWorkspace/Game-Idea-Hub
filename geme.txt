@@ -1,0 +1,35 @@
+Game Title
+
+Pulse Runner
+
+Concept
+
+A rhythmic endless runner where the player’s speed and actions sync to the beat of the music, and the environment dynamically changes with every pulse.
+
+Gameplay
+
+Players control a character running through a vibrant world, where obstacles and platforms appear or disappear in time with the music’s beat. Players must jump, slide, or dodge in rhythm to survive as long as possible. The pace speeds up with the music, increasing the challenge.
+
+Unique Features
+
+Music-driven gameplay where timing actions to the beat is essential.
+
+Dynamic environment changes synchronized with the soundtrack.
+
+Procedurally generated levels based on different music tracks.
+
+Target Audience
+
+Fans of rhythm games and endless runners, ages 10+, who love music and fast-paced gameplay.
+
+Art Style & Themessss
+
+Bright neon colors with a futuristic cyberpunk vibe. Energetic electronic soundtrack.
+
+Inspiration
+
+Inspired by games like Geometry Dash and Bit.Trip Runner with a focus on rhythmic immersion.
+
+Tools or Platforms
+
+Great for mobile and PC, built with Unity or Godot.
