@@ -1,0 +1,1 @@
+This simulator is used to control volume by using camera of the system.
