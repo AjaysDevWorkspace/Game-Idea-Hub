@@ -1,0 +1,11 @@
+## 🎮 Feature Request: Add Player Movement
+
+**Description:**
+Implement basic WASD/Arrow key movement for the player character.
+
+**Why:**
+This is a core mechanic needed for gameplay.
+
+**Acceptance Criteria:**
+- Player moves smoothly in four directions.
+- No screen clipping or movement beyond boundaries.
