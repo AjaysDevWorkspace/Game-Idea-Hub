@@ -64,35 +64,3 @@ git push
     Go back to your forked repository on GitHub. Click the <strong>Contribute</strong> button, then select <strong>Open pull request</strong> to submit your idea for review.
   </li>
 </ol>
-
-<p style="font-style: italic; color: #666;">&lt; Tips &gt;<br>
-- Make sure your file name matches the format exactly.<br>
-- Double-check your spelling and idea clarity.<br>
-- Feel free to add images or links in your .md file to better explain your concept.</p>
-
-## 📝 Game Idea Template
-
-```markdown
-# Game Title
-(What’s your game called?)
-
-## Concept
-(A short summary of your game idea in 2–3 sentences.)
-
-## Gameplay
-(How does the game work? What’s the player’s objective?)
-
-## Unique Features
-(What makes your game different or exciting?)
-
-## Target Audience
-(Who is this game for? Age group, interests, etc.)
-
-## Art Style & Theme
-(Optional – describe the visual style, tone, or theme.)
-
-## Inspiration
-(What inspired you? Any similar games or concepts?)
-
-## Tools or Platforms (Optional)
-(Do you imagine this being built in Unity, Unreal, web, mobile, etc.?)
